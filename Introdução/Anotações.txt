@@ -1,4 +1,6 @@
-# Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+# Organizador para o Curso DIO
 
-### Git e GitHub: Relembrando algumas coisinhas
+
+
+##### Repositórios para Anotações das Aulas
 
