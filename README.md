@@ -38,7 +38,7 @@
 * Arrays e Estruturas de Repetição em JavaScript
 * Importação e Exportação com JavaScript
 * Introdução ao Desenvolvimento Web com JavaScript
-* Criando um Projeto com HTML/C SS para Listagem de Pokémon
+* Criando um Projeto com HTML/CSS para Listagem de Pokémon
 * Dominando o Protocolo HTTP e Integrando com a PokeAPI
 *  Construindo uma Pokédex com JavaScript
 
